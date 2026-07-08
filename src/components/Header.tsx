@@ -45,7 +45,7 @@ export default function Header({ theme, onThemeToggle, audioActive, onAudioToggl
       <div className="flex items-center gap-3">
         <div className="w-9 h-9 rounded-full border border-teal-500/30 flex items-center justify-center bg-slate-100 dark:bg-[#0D1C2D] overflow-hidden relative group">
           <div className="absolute inset-0 bg-gradient-to-tr from-teal-500/20 to-transparent animate-pulse" />
-          <img src="/assets/star_project_icon_only.png" alt="S.T.A.R. Icon" className="w-full h-full object-cover" />
+          <img src="assets/star_project_icon_only.png" alt="S.T.A.R. Icon" className="w-full h-full object-cover" />
             
         </div>
         <div className="flex flex-col">
