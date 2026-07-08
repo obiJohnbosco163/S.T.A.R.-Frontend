@@ -37,7 +37,7 @@ export default function App() {
 
   // Initialize and clean up background music
   useEffect(() => {
-    const audio = new Audio("assets/1001141003-1.mp3");
+    const audio = new Audio("/assets/1001141003-1.mp3");
     audio.loop = true;
     audio.volume = 0.45; // Pleasant level
     bgMusicRef.current = audio;

@@ -12,7 +12,7 @@ const PORT = 3000;
 app.use(express.json());
 
 // Serve assets directory statically for background music and visual assets
-app.use("/assets", express.static(path.join(process.cwd(), "assets")));
+app.use("/assets", express.static(path.join(process.cwd(), "public/assets")));
 
 // Lazy-loaded Gemini Client to prevent crash on startup if key is missing
 let aiClient: GoogleGenAI | null = null;
