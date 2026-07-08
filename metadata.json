@@ -1,0 +1,6 @@
+{
+  "name": "S.T.A.R.",
+  "description": "Sleek Tactical Agent Runner (S.T.A.R.) — A high-precision, technical interface for running, monitoring, and analyzing AI agent directives server-side using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
