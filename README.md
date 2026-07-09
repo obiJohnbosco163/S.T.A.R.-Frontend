@@ -1,6 +1,6 @@
 # S.T.A.R. AI Agent — Frontend Hub
 
-Welcome to the official frontend repository for **S.T.A.R.** (Sales & Targeting Readiness Assistant), an elegant and powerful AI agent deployed on the **Croo Network**. 
+Welcome to the official frontend repository for **S.T.A.R.** (Sales Targeting & Readiness Assistant), an elegant and powerful AI agent deployed on the **Croo Network**. 
 
 S.T.A.R. serves as a sleek intelligence layer that helps sales, outreach, and business teams understand companies, shape smarter outreach, and convert cold prospects into warm momentum.
 
